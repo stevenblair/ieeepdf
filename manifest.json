@@ -1,6 +1,7 @@
 {
   "name": "FixIEEEPDF",
   "version": "1.0",
+  "manifest_version": 2,
   "description": "Remove frame/banner above IEEEXplore PDF files",
   "content_scripts": [
     {
