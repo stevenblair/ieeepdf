@@ -1,1 +1,9 @@
 This extension for Google Chrome removes the frame/banner above IEEEXplore PDF files. This makes better use of the vertical screen space.
+
+To install:
+
+ 1. clone the repository, or download the repo files into a dirctory called `FixIEEEPDF`
+ 2. open Chrome
+ 3. go to Options > Extensions
+ 4. check `Developer mode`
+ 5. click on `Load unpacked extension...` and find the repo directory
