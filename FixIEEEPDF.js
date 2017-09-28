@@ -22,7 +22,7 @@
  * THE SOFTWARE.
  */
 
-frameArray = document.getElementsByTagName("frame");
+frameArray = document.getElementsByTagName("iframe");
 
 if (frameArray.length > 0) {
 	if (frameArray[0].src == "http://ieeexplore.ieee.org/stamp/banner.jsp") {
